@@ -1,6 +1,6 @@
 {
   "name": "@strangetin/laravel-echo",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "description": "Laravel Echo for Nuxt.js",
   "repository": "strangetin/laravel-echo",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "test": "yarn lint && jest"
   },
   "dependencies": {
-    "laravel-echo": "^1.8.0"
+    "laravel-echo": "^1.9.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
